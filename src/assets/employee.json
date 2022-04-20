@@ -1,0 +1,18 @@
+{
+    "Employee":[{
+        "EmpID":"101",
+        "Name":"aaa",
+        "Designation":"developer"
+    },
+    {
+        "EmpID":"102",
+        "Name":"bbb",
+        "Designation":"Tester"
+    },
+    {
+        "EmpID":"103",
+        "Name":"ccc",
+        "Designation":"Engineer"
+    }
+]
+}
